@@ -1,5 +1,8 @@
 # asset-list-app
 
+Can acess the web with this link
+https://asset-list-app.netlify.app/
+
 ## Project setup
 ```
 npm install
